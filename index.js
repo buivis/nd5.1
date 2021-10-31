@@ -1,4 +1,4 @@
-var tasks = {
+let tasks = {
     cars: [
         { id: 1, name: 'Ford', color: 'white', isDamaged: false },
         { id: 2, name: 'Suzuki', color: 'green', isDamaged: false },
